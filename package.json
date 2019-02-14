@@ -1,7 +1,7 @@
 {
   "name": "linkin-park",
   "version": "1.0.0",
-  "description": "bookmarks manager",
+  "description": "todo app",
   "main": "app.js",
   "scripts": {
     "start": "node_modules/.bin/nodemon app.js --exec babel-node --"
